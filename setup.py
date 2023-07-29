@@ -5,7 +5,7 @@ setup(
     version='0.1.0',
     description='A Python module to calculate the distance between two points on the Earth\'s surface.',
     author='Nagarjun E',
-    author_email='enagarjun.1@gmail.com,
+    author_email='enagarjun.1@gmail.com',
     url='https://github.com/nagarjune/haversine_geo_distance_module/blob/main/haversine_geo_distance',
     packages=find_packages(),
     install_requires=['haversine'],
